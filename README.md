@@ -5,6 +5,7 @@
 - 🔥 Next.js
 - 🔥 Gatsby.js 
 - 🔥 Turborepo
+- 🔥 LitElement (Web Components)
 - 👌 firebase
 - 👌 auth0
 - 🌱 Express
