@@ -1,7 +1,7 @@
 ## Technology Stack
 
 - 🔥 [TypeScript](https://www.typescriptlang.org/)
-- 🔥 [React](https://ja.reactjs.org/)
+- 🔥 [React](https://reactjs.org/)
 - 🔥 [Next.js](https://nextjs.org/)
 - 🔥 [Gatsby.js](https://www.gatsbyjs.com/)
 - 🔥 [Turborepo](https://turbo.build/)
