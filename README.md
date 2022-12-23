@@ -8,7 +8,6 @@
 - 👌 firebase
 - 👌 auth0
 - 🌱 Express
-- 🌱 Express
 - 🌱 MongoDB
 - 🌱 Amazon DynamoDB
 - 🌱 Amazon S3
