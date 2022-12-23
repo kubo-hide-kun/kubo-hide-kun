@@ -14,6 +14,8 @@
 - 🌱 [Amazon S3](https://aws.amazon.com/s3/)
 - 💬 [NestJS](https://nestjs.com/)
 - ⛄ [ReactNative](https://reactnative.dev/)
+- ⛄ [Vue.js](https://vuejs.org/)
+- ⛄ [Nuxt.js](https://nuxtjs.org/)
 - ⛄ [Swift for iOS](https://www.apple.com/swift/)
 
 ```
