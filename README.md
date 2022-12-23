@@ -1,20 +1,20 @@
 ## Technology Stack
 
-- 🔥 TypeScript
-- 🔥 React
-- 🔥 Next.js
-- 🔥 Gatsby.js 
-- 🔥 Turborepo
-- 🔥 LitElement (Web Components)
-- 👌 firebase
-- 👌 auth0
-- 🌱 Express
-- 🌱 MongoDB
-- 🌱 Amazon DynamoDB
-- 🌱 Amazon S3
-- 💬 NestJS
-- ⛄ ReactNative
-- ⛄ Swift for iOS
+- 🔥 [TypeScript](https://www.typescriptlang.org/)
+- 🔥 [React](https://ja.reactjs.org/)
+- 🔥 [Next.js](https://nextjs.org/)
+- 🔥 [Gatsby.js](https://www.gatsbyjs.com/)
+- 🔥 [Turborepo](https://turbo.build/)
+- 🔥 [LitElement (Web Components)](https://lit.dev/)
+- 👌 [firebase](https://firebase.google.com/)
+- 👌 [auth0](https://auth0.com/)
+- 🌱 [Express](https://expressjs.com/)
+- 🌱 [MongoDB](https://www.mongodb.com/)
+- 🌱 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+- 🌱 [Amazon S3](https://aws.amazon.com/s3/)
+- 💬 [NestJS](https://nestjs.com/)
+- ⛄ [ReactNative](https://reactnative.dev/)
+- ⛄ [Swift for iOS](https://www.apple.com/swift/)
 
 ```
 - 🔥 I am currently use ... for my business
