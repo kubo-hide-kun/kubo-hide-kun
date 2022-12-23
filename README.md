@@ -1,8 +1,25 @@
+## Technology Stack
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo-hide-kun" />
-</a>
+- 🔥 TypeScript
+- 🔥 React
+- 🔥 Next.js
+- 🔥 Gatsby.js 
+- 🔥 Turborepo
+- 👌 firebase
+- 👌 auth0
+- 🌱 Express
+- 🌱 Express
+- 🌱 MongoDB
+- 🌱 Amazon DynamoDB
+- 🌱 Amazon S3
+- 💬 NestJS
+- ⛄ ReactNative
+- ⛄ Swift for iOS
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kubo-hide-kun&count_private=true&show_icons=true" />
-</a>
+```
+- 🔥 I am currently use ... for my business
+- 👌 I am currently use ... for my private
+- 🌱 I am currently learning ...
+- 💬 I am currently interested ...
+- ⛄ I have used A in the past (but not currently)
+```
