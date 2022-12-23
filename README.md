@@ -20,5 +20,5 @@
 - 👌 I am currently use ... for my private
 - 🌱 I am currently learning ...
 - 💬 I am currently interested ...
-- ⛄ I have used A in the past (but not currently)
+- ⛄ I have used ... in the past (but not currently)
 ```
