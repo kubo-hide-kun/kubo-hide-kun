@@ -8,7 +8,6 @@
 - 🔥 [Next.js](https://nextjs.org/)
 - 🔥 [Gatsby.js](https://www.gatsbyjs.com/)
 - 🔥 [Turborepo](https://turbo.build/)
-- 🔥 [LitElement (Web Components)](https://lit.dev/)
 - 🔥 [Amazon Web Service](https://aws.amazon.com/)
 - 🔥 [Terraform](https://www.terraform.io/)
 - 👌 [firebase](https://firebase.google.com/)
@@ -20,6 +19,7 @@
 - ⛄ [Vue.js](https://vuejs.org/)
 - ⛄ [Nuxt.js](https://nuxtjs.org/)
 - ⛄ [Swift for iOS](https://www.apple.com/swift/)
+- ⛄ [LitElement (Web Components)](https://lit.dev/)
 
 ```
 - 🔥 I am currently use ... for my business
