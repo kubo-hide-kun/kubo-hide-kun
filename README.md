@@ -9,6 +9,22 @@
 - 🔥 [Gatsby.js](https://www.gatsbyjs.com/)
 - 🔥 [Turborepo](https://turbo.build/)
 - 🔥 [Amazon Web Service](https://aws.amazon.com/)
+  - ACM
+  - CloudFront
+  - CloudWatch
+  - Cognito
+  - ECR
+  - ECS
+  - IAM
+  - Lambda
+  - LoadBalancer
+  - RDS
+  - Route53
+  - S3
+  - SES
+  - VPC
+  - WAF
+  - WorkMail
 - 🔥 [Terraform](https://www.terraform.io/)
 - 👌 [firebase](https://firebase.google.com/)
 - 👌 [auth0](https://auth0.com/)
