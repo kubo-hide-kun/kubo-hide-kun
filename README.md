@@ -1,5 +1,5 @@
 ## Links
-- [Twitter](https://twitter.com/kubo_programmer)
+- [X](https://x.com/kubo_programmer)
 
 ## Technology Stack
 
